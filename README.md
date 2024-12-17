@@ -48,7 +48,7 @@ Conclusión: El modelo predijo correctamente la siguiente palabra en secuencias 
 ### Desafío 4: QA Bot
 Notebook: Desafio_4.ipynb
 
-En este desafío se construyó un chatbot para responder preguntas utilizando el dataset del challenge ConvAI2 (Conversational Intelligence Challenge 2) de conversaciones en inglés. El modelo se entrenó utilizando embeddings de FastText de dimensión 300 tanto para el encoder como el decoder. 
+En este desafío se construyó un chatbot para responder preguntas utilizando el dataset del challenge ConvAI2 (Conversational Intelligence Challenge 2) de conversaciones en inglés. 
 
 Los pasos realizados fueron:
 
